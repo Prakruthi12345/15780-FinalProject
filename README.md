@@ -1,1 +1,3 @@
 # 15780-FinalProject
+
+The general objective of this research is to analyze Human Driver Trajectory. The models developed in this paper will assist autonomous vehicles in taking decisions to ensure they meets their specified goal while maintaining necessary safety conditions. Specifically, we will look to model the velocity profile of vehicles at intersections and on highways. The approach discussed in this paper involves utilizing object detection and trackers like YOLO to extract trajectories of moving objects as well as Transformer and LSTM models to model the trajectory data’s sequential and time series nature.
